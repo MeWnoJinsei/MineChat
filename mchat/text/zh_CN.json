@@ -1,0 +1,11 @@
+{"zh_CN":
+	{
+		"mcobject.dimension.world": "主世界",
+		"mcobject.dimension.nether": "下界",
+		"mcobject.dimension.end": "末地",
+		"mcobject.dimension.unknown": "未知维度",
+		"mcobject.permissionLevel.notOperator": "非操作员",
+		"mcobject.permissionLevel.operator": "操作员",
+		"mcobject.permissionLevel.unknown": "未知权限级别"
+	}
+}
